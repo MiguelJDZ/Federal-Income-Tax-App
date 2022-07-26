@@ -1,0 +1,10 @@
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\bin\Debug\FederalIncomeTaxApp.exe.config
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\bin\Debug\FederalIncomeTaxApp.exe
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\bin\Debug\FederalIncomeTaxApp.pdb
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.IncomeTaxCalculatorForm.resources
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.Properties.Resources.resources
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.csproj.GenerateResource.cache
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.csproj.CoreCompileInputs.cache
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.exe
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.pdb
+C:\C#\FederalIncomeTaxApp\FederalIncomeTaxApp\obj\Debug\FederalIncomeTaxApp.csproj.AssemblyReference.cache
