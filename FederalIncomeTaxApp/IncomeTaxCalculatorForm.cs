@@ -1,12 +1,3 @@
-﻿/*
- * File: IncomeTaxCalculatorForm.cs
- * Author: Miguel Duran 841-17-1372
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 02/18/2021
- * Purpose: This form calculates and displays the income tax owed for the given
- *          taxable income and tax percent.
- */
-
 using System;
 using System.Windows.Forms;
 
